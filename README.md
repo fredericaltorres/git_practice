@@ -1,5 +1,5 @@
 # git_practice
-A repository to practice git command
+A repository to practice git commands
 
 # How to revert a PR?
 
