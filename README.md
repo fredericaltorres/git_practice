@@ -6,7 +6,7 @@ A repository to practice git commands
 * Find the PR you want to revert - Copy the hash
 
 ```bash
-git checkout develop 
+git checkout master 
 git pull
 git checkout -b new-branch-name
 git revert -m 1 hash # The default editor will open
